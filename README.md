@@ -1,3 +1,8 @@
+INTEGRANTES:
+    - Gonzales Soto Alex
+    - Tisnado Guevara Anthony
+    - Vereau Tuesta Cristian
+    
 EXPLICACION PARA LA EJECUCIÓN:
 
     Se utilizó la imagen "nginx:stable-alpine3.21-perl" de DockerHub para subir las imagenes con el nombre app1, app2, app3 con docker.
